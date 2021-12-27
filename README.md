@@ -24,19 +24,19 @@ Value strategy is an investment strategy that selects a "universe of stocks", S&
 
 The value metrics for this project are:
 * Debt-to-Equity Ratio
-    * Proportion of equity to debt a company is using to finance its assets
+    * Proportion of equity to debt a company is using to finance its assets.
 * Price-to-Earnings Ratio
-    * What the market is willing to pay for a stock based on past or future earnings
+    * What the market is willing to pay for a stock based on past or future earnings.
 * Price-to-Book Ratio
-    * Measures whether a stock is over/undervalued by comparing the net value (assets - liabilities) to its market capitalization
+    * Measures whether a stock is over/undervalued by comparing the net value (assets - liabilities) to its market capitalization.
 * Price-to-Sales Ratio
-    * Compares stock price to its revenues
+    * Compares stock price to its revenues.
 * Price-to-Earnings-to-Growth Ratio
-    * Measures the relationship between the price/earnings ratio and earnings growth
+    * Measures the relationship between the price/earnings ratio and earnings growth.
 * Enterprise Value/Earnings Before Interest, Taxes, Depreciations, and Amortization
     * Comparing the value of a company, debt included, to the company’s cash earnings less non-cash expenses.
 * Enterprise Value/Gross Profit
-    * How many dollars of enterprise value are generated for every dollar of gross profit earned--the higher the ratio, the higher the company's net worth
+    * How many dollars of enterprise value are generated for every dollar of gross profit earned--the higher the ratio, the higher the company's net worth.
 
 
 Tech Stack
@@ -104,4 +104,5 @@ for symbol_string in symbol_strings:
 ```
 
 To see the full code, check out [quantitative_value_strategy_ipynb](https://github.com/sangtvo/Quantitative-Value-Investing-Strategy/blob/main/code/quantitative_value_strategy.ipynb).
+
 To see the best 100 value stocks in excel, check out [100_value_stock_strategy.xlsx](https://github.com/sangtvo/Quantitative-Value-Investing-Strategy/blob/main/code/100_value_stock_strategy.xlsx).
